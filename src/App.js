@@ -19,7 +19,7 @@ function App() {
         Nice! You're getting closer. Don’t stop now — click the button below 🙂
       </p>
       <a
-        href="https://layer3-surprise.vercel.app/"
+        href="https://layer3-seven.vercel.app/"
         style={{
           backgroundColor: "#84f0c1",
           color: "#012",
